@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Installation
 # 1. Clone the Repository:
 <p>Open your command-line interface (CLI) and navigate to the directory where you want to clone the repository.<br>
-Use the following command to clone the repository:<br><br>
+Use the following command to clone the repository:<br>
  type in terminal:<br>
 * git clone <https://github.com/shakeel159/React.js_practice></https:><br>
 
