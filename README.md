@@ -15,7 +15,6 @@ After cloning, navigate into the project directory:
 Type in terminal
 cd <project-directory>
 Replace <project-directory> with the name of the directory created when you cloned the repository.
-### `npm run build` fails to minify
 
 3. Install Dependencies:
 Once inside the project directory, install the necessary dependencies (including React and other packages) using npm:
