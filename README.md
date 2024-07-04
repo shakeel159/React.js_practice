@@ -1,4 +1,4 @@
-#About Website
+# About Website
 <p>Simple wesbite to search for movie titles</p>
 
 # Steps to Run a React Application from GitHub:
